@@ -15,4 +15,5 @@ dependencies = [
     "python-dotenv>=1.0.1",
     "scikit-learn>=1.6.1",
     "scipy>=1.15.1",
+    "youtube-transcript-api>=0.6.0",
 ]

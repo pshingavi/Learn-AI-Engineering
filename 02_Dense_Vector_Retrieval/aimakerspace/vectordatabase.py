@@ -12,6 +12,28 @@ def cosine_similarity(vector_a: np.array, vector_b: np.array) -> float:
     norm_b = np.linalg.norm(vector_b)
     return dot_product / (norm_a * norm_b)
 
+def dot_product_similarity(vector_a: np.array, vector_b: np.array) -> float:
+    """Computes dot product similarity. Math formula: Σ(a_i × b_i)"""
+    return np.dot(vector_a, vector_b)
+
+def manhattan_distance(vector_a: np.array, vector_b: np.array) -> float:
+    """Computes Manhattan distance. Returns negative so smaller distances rank higher. Math formula: Σ|a_i - b_i|"""
+    vector_a = np.array(vector_a)  # Add this line
+    vector_b = np.array(vector_b)  # Add this line
+    difference = vector_a - vector_b  # Step 1: vector_a minus vector_b
+    abs_difference = np.abs(difference)  # Step 2: absolute value of difference
+    distance = np.sum(abs_difference)  # Step 3: sum of absolute differences
+    return -distance  # Step 4: return negative of distance
+
+def euclidean_distance(vector_a: np.array, vector_b: np.array) -> float:
+    """Computes Euclidean distance. Returns negative so smaller distances rank higher."""
+    vector_a = np.array(vector_a)  # Add this line
+    vector_b = np.array(vector_b)  # Add this line
+    difference = vector_a - vector_b
+    squared_difference = np.square(difference)
+    distance = np.sqrt(np.sum(squared_difference))
+    return -distance
+
 
 class VectorDatabase:
     def __init__(self, embedding_model: EmbeddingModel = None):
