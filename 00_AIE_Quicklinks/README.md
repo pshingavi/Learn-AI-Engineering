@@ -10,7 +10,7 @@ Quicklinks are to help you **easily navigate individual session information** fo
 
 =======
 | [The Agent Loop](../00_Docs/Session_Sheets/03_The_Agent_Loop.md) |[Recording!](https://us02web.zoom.us/rec/share/NdJnwKY2QF6FDaY7Bm-zj-a9rjjmckGmokKmE18jM1WwVxufvNm3igRMoguf0GDH.qb5JIlSENaTGEKxI) <br> passcode: `zD6.J*fM`| [Session 3 Slides](https://www.canva.com/design/DAG-EORuh3Y/cGsDrjkJqyVQzxGPa_YGHw/edit?utm_content=DAG-EORuh3Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [03_The_Agent_Loop](../03_The_Agent_Loop) | [Session 3 Assignment: Agentic Loop](https://forms.gle/u6Gkpnp7MEMvYug26) | [Feedback 1/20](https://forms.gle/RR4iMFGukpKEsvEW8) |
->>>>>>> 5ce324bc59c03c7b92eafaa8cd5b4e6cda40e676
+| [Vibe Check!](../00_Docs/Session_Sheets/04_Agentic_RAG_From_Scratch.md) |[Recording!](https://us02web.zoom.us/rec/share/HY0f8Ovri36rF9lRYPs-I1qckTkEftcuxg0zUXmLSI9_tCxJQxXYgPXejzMxYbuC.nJypOGHZUaPBaVZd) <br> passcode: `02y.=1pO`| [Session 4 Slides](https://www.canva.com/design/DAG-EIVcUxE/WH_2fNB39mBUmOb-zeB8WA/edit?utm_content=DAG-EIVcUxE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [04_Agentic_RAG_From_Scratch](../04_Agentic_RAG_From_Scratch/Agentic_RAG_From_Scratch_Assignment.ipynb) | [Session 4 Assignment: Agentic RAG](https://forms.gle/wJWWTyQXhveVLaKx8) | [Feedback 1/22](https://forms.gle/dTuPZjRVnUMQy5x76) |
 
 ## Initial Setup
 1. [Git and GitHub](../00_Docs/Prerequisites/Initial_Setup/1_Git_and_GitHub)
