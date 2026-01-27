@@ -3,3 +3,7 @@
 content/
 .claude/__pycache__/
 *.pyc
+
+# Blog Workflow
+blog_workflow
+__pycache__/
