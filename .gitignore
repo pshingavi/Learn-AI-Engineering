@@ -3,7 +3,8 @@
 content/
 .claude/__pycache__/
 *.pyc
-
 # Blog Workflow
 blog_workflow
 __pycache__/
+.langgraph_api/
+uv.lock
