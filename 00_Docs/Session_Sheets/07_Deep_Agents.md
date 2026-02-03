@@ -11,7 +11,7 @@
 
 
 ## 📛 Required Tooling & Account Setup
-No new tools or accounts needed for this session
+- [Antropic API Key](https://platform.claude.com/login?returnTo=%2Fsettings%2Fkeys)
    
 ## 📜 Recommended Reading
 
