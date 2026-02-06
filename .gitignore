@@ -8,3 +8,6 @@ blog_workflow
 __pycache__/
 .langgraph_api/
 uv.lock
+.venv
+uv.lock
+workspace
